@@ -1,0 +1,178 @@
+#   01 Installing Pharo IoT on Raspberry less 1 minute with wget
+#   04 Linux Programs fzf date wget and more Tutorial 2019
+#   17 Testing Download Speed with wget
+#   17. Скачивание файлов (wget, curl). Системные службы (systemctl). Журналирование (joutrnalctl)
+#   18. Linux Directories (/wget | /curl | /vim | /grep | /diff | /useradd | /passwd)
+#   22nd CL Create Links for Wget
+#   9. Linux Tutorials: Linux wget command with examples
+#   [TUTORIAL] Stealing Server-Side Files Using Wget
+#   All you need to know about wget command 🤯 // Master Linux #86 ##linx
+#   Baixando Sites (arquivos) pelo WGET
+#   BASH Get Street View from Address Linux ShellScript Wget Google Maps API
+#   bash script for blender update . axel vs wget . parallel download
+#   Can not download from an HTTPS site (ssl) with wget?
+#   Change file name of after downloading file from wget (2 Solutions!!)
+#   Create Timelapse from IP Camera using cURL/Wget and FFmpeg
+#   curl vs wget Commands Comparison by a Cyber Security Expert
+#   curl wget - 403 Forbidden
+#   CVE-2014-4877 GNU Wget FTP Symlink Arbitrary Filesystem Access
+#   Data Scraping Method: Using Wget in Searches
+#   DevOps & SysAdmins: Escape a ! in the password parameter of wget (4 Solutions!!)
+#   DevOps & SysAdmins: How to use "wget" to save a file as a different name? (3 Solutions!!)
+#   DevOps & SysAdmins: Upgrading wget on Ubuntu 16.04 server
+#   download 1080p 5.1 videos from Navi-X with ffmpeg or wget - kodi recording videos 24
+#   Download a website recursively with wget In Linux Step By Step Tutorial
+#   Download File from Internet using Linux Terminal #wget #linux #terminal
+#   download files from google drive using WGET
+#   Download Files like WGET with Python - Linux
+#   Download files using wget in Linux CLI | 100% working
+#   Download forum with wget with username and password? (4 Solutions!!)
+#   Download from the OTN using WGET
+#   Download full site - Wget
+#   Download Image from URL using Python[ Requests, Wget, Urllib]
+#   Download WordPress directly to your web server using wget
+#   Downloading a RAR file from Mediafire using WGET (7 Solutions!!)
+#   Downloading files From Git Using " wget " via Terminal ( Fedora )
+#   Drupal: Caching using wget (3 Solutions!!)
+#   Drupal: Delete nodes if URL is called via Wget Command (3 Solutions!!)
+#   Fun with Qshell episode 5 - wget
+#   Get Yahoo Finance data using wget and load into database or Excel
+#   gpg: can't open ` ': "No such file or directory" during "wget ... apt-key add" upgrading Kali Linux
+#   Grab source from Google Code using wget or curl?
+#   Hacker top commands | git | wget | curl -o | termux commands | hacking tutorial
+#   How can i download php using wget? (2 Solutions!!)
+#   How do I do ldap authentication with wget?
+#   How do I not download certain websites with wget?
+#   How do I pipe the files downloaded with wget through tar? (2 Solutions!!)
+#   How to Configure Proxy for apt get and wget in Ubuntu
+#   How to download and extract GPM precipitation using MATLAB and Wget
+#   How to Download and Install Wget for Windows 10
+#   How to Download File using wget Command in Linux
+#   How to Download File with a GET in URL using wget?
+#   How to download multiple files using Wget from Cygwin for Windows? (2 Solutions!!)
+#   How to download Oracle Java JDK/JRE using wget in Linux
+#   How to Download precipitation multiple data file using wget and Ubuntu
+#   How to fix libssl.1.1 wget error in termux cannot link execute
+#   How To Fix Termux Apt Update Error | Fix Wget Update Error
+#   how to get linux wget command line utility in git bash on windows
+#   How to get past the login page with wget?
+#   How to install python,pip,wget,git & many important tools in Termux & in Kali |Practically|13| Hindi
+#   how to install wget in windoes system,
+#   How To Install WGET Linux
+#   How to install wget on Mac and Fix --with-ssl was given error
+#   How to install WGet on MacOS
+#   How to Migrate WHMCS from one domain to another using Wget Command | Polly Host
+#   How to use the wget command: 2-Minute Linux Tips
+#   How to use wget command in linux
+#   How To Use wget To Download a File (and a full website)
+#   How to use wget to download a file stored in Google Drive without making publicly shareable link...
+#   How to use wget to download certain files from a certain directory when the directory itself...
+#   How to Use wget, the Ultimate Command Line Downloading Tool
+#   How you can download website template file using "wget" in ubuntu 15.04|SUDO_TN
+#   Importing Online Data Files with WGET (Google Colaboratory and Jupyter Notebooks)
+#   Installing & running Wget under CygWin on Windows 7 | Установка и запуск Wget в CygWin на Windows 7
+#   installing google chrome in CentOS by wget command ( EASIEST WAY )
+#   Intro to wget - Downloading Computer Science Papers // Starring Zsh and a scratchpad from i3
+#   Kali Linux tools - WGET. Extracted email addresses
+#   kodi download videos from the genesis addon using wget - kodi recording videos - 17
+#   Learn Linux #21 - curl & wget Command
+#   Learning LINUX CentOS From Scratch || Network Clients ssh scp ftp wget
+#   Linux / Unix wget command tutorial with examples for new users
+#   Linux Commands 101 : wget - Download ALL THE THINGS!
+#   Linux Crash Course - The wget Command
+#   LINUX DEBIAN 7 Wget error Unable to establish SSL connection
+#   linux wget command - download files in linux with wget download application
+#   LIVE!!! WGET CANNOT LINK EXECUTABLE SOLVED!!!
+#   Native alternative to wget in Windows PowerShell? (10 Solutions!!)
+#   Pigeon ISP Proof of Concept - wget
+#   Privilege Escalation with Wget
+#   PYTHON : Python equivalent of a given wget command
+#   Python №1: Wget
+#   Quick Download PDF or any File type using WGET
+#   Scaricare interi siti web con wget!
+#   Schedule a Download with wget
+#   Shell Tutorial: Advanced downloading using Wget
+#   Software Engineering: Is wrapping a command-line tool (wget, curl) a "good" practice?
+#   TryHackMe! Wget for Privilege Escalation
+#   Tutorial - Comando WGET en LINUX para descargar archivos por consola
+#   Técnica 7 - Descarga de contenido web con WGET
+#   Ubuntu. Как загрузить сайт целиком? Программа wget
+#   Ubuntu: Getting "Scheme missing" error with wget
+#   Ubuntu: How do I provide a username and password to wget?
+#   Ubuntu: How to download link with unicode using wget? (2 Solutions!!)
+#   Ubuntu: Ubuntu 13.10 Server : wget changes the filename of downloaded file automatically
+#   Ubuntu: Wget Scheme Missing
+#   Ubuntu: What is the difference between curl and wget? (4 Solutions!!)
+#   Unix & Linux: "Short write" error message with wget (3 Solutions!!)
+#   Unix & Linux: Can I use wget to download all files recursively, but not their actual content?
+#   Unix & Linux: Download all of today's stackexchange with wget
+#   Unix & Linux: Download google drive folder's file via wget (3 Solutions!!)
+#   Unix & Linux: Download ZIP file of private GitHub repository using `wget` like `curl`
+#   Unix & Linux: How do I download from SourceForge with wget? (3 Solutions!!)
+#   Unix & Linux: How to fetch files by mime type with wget?
+#   Unix & Linux: How to resume download in wget for google takeout data?
+#   Unix & Linux: How to retry connections with wget? (3 Solutions!!)
+#   Unix & Linux: Letting HTML file act as URL with wget
+#   Unix & Linux: List of links to images in website with wget
+#   Unix & Linux: Need to get wget output to log file
+#   Unix & Linux: Piping of stream from wget to tar, and extracting it to a specific location failed
+#   Unix & Linux: Put two Cron jobs into crontab using wget (2 Solutions!!)
+#   Unix & Linux: Using WGET with cloud hosted generic FTP URL
+#   Unix & Linux: Wget command that returns [a list of] all webpages on a webserver (4 Solutions!!)
+#   Unix & Linux: Wget for Windows error: "The application was unable to start correctly (0xc000007b)."
+#   Unix & Linux: wget not downloading streaming mp3 correctly (2 Solutions!!)
+#   Unix & Linux: Wget out of memory error kills process
+#   Unix & Linux: Why is "wget -r -e robots=off http://ccachicago.org" not acting recursively?
+#   Use number of downloaded file in wget as variable in bash script (2 Solutions!!)
+#   Use ‘wget’ to download an image from the Internet
+#   using regex magic and wget to download all my lectures
+#   Using wget does not give same output as browser
+#   Using Wget to download files with a specific name off a site
+#   Using wget to get file names from a text file (3 Solutions!!)
+#   Using wget to mirror a website and everything from the first level of external sites
+#   Video Tutorial: Use Python + Wget to Download Tons of Files in Seconds
+#   WGET
+#   Wget - How to Download Multiple JPGs at Once
+#   wget and encoded URL (4 Solutions!!)
+#   wget command
+#   wget command in linux | wget download all files from a website | wget download | wget explained
+#   wget command part-1/what are the uses of wget command in real time? How to use wget command? //2020
+#   wget download using list of urls (2 Solutions!!)
+#   Wget downloaded more data than the actual file
+#   Wget for downloading GPM IMERG dataset, Part 2/2 (GES DISC, HTTPS)
+#   WGET Hack - Part 1
+#   wget in python - downloading files made easy! Python libraries, advent of code
+#   wget Internet File Downloading Made Easy!
+#   Wget kali Linux
+#   WGET Linux Tutorial
+#   WGET Monday Open
+#   wget on github
+#   wget on the God Damned Cellular
+#   wget only saving first line of cookies
+#   Wget privilege escalation | TryHackMe walkthrough by Harsh Surani
+#   Wget site mirror, links with rel="＜content＞" not followed
+#   wget stops downloading: Cannot write to `-' (success) (2 Solutions!!)
+#   WGet the popcorn out 🍿 #shorts
+#   Wget Tool Ki Help Se Koi Bhi Website Ko Download Kare Ethical Hacking
+#   Wget | Linux Command Line Utility to Download Files
+#   wget введение в линукс
+#   wget или загрузка музыки и видео с контакта без программ!
+#   WGET'S HALLOWEEN (10-31-18)
+#   wget, dpkg e bat
+#   Wget, Terminal Downloader | Linux Essentials | Telugu
+#   Wget-Lening Sangma Garo song
+#   wget/curl in C# - C#
+#   wget: only download .listing file
+#   Wget: Segmentation fault (core dumped) (3 Solutions!!)
+#   What's the equivalent of "wget -i FILE" in Curl? (3 Solutions!!)
+#   Why use Wget instead of a browser? (3 Solutions!!)
+#   Инструкции Linux - #22 урок. Скачивание из интернета. Wget
+#   КАК СКАЧАТЬ САЙТ wget . Делай и продавай! ТВОЙ СТАРТ на Фрилансе
+#   Как скачать сайт целиком, landing page с CSS в WGET и CMD
+#   Копируем лендинг программой Wget
+#   Офигенная програмулька WGET помогает выкачивать тысячи фоток за пару минуток
+#   Скачать сайт целиком. Wget. Типичный сисадмин
+#   УРОК_1 :: Видео_2 "Копируем лендинг программой Wget"
+#   Установка WGET на macOS Catalina, Mojave, 2020
+
+#wget  #download  #linux  #use  #file  #how  #solution  #command  #unix  #curl  #ubuntu  #for  #tutorial  #error  #python  #google  #website  #all  #url  #windows  #datum  #install  #site  #can  #tool  #video  #bash  #directory  #fix  #git  #hack  #kali  #line  #link  #list  #name  #terminal  #termux  #программа  #сайт  #cannot  #certain  #cygwin  #devop  #drive  #easy  #escalation  #ftp  #image  #instal  #internet  #kodi  #links  #multiple  #password  #privilege  #recursively  #server  #sysadmin  #update  #via  #web  #скачать  #целик  #act  #actual  #address  #application  #apt  #browser  #cento  #change  #code  #con  #connection  #content  #correctly  #create  #drupal  #equivalent  #example  #extract  #ffmpeg  #first  #full  #github  #given  #gpm  #host  #https  #like  #maco  #made  #mirror  #missing  #more  #need  #off  #only  #open  #out  #output  #page  #part  #precipitation  #record  #scheme  #script  #specific  #ssl  #step  #stream  #tar  #tryhackme  #type  #unable  #upgrading  #username  #utility  #why  #write  #копировать  #лендинг  #скачивание  #установка  #0xc000007b  #1080p  #2-minute  #22nd  #about  #access  #add  #addon  #advanced  #advent  #after  #alternative  #another  #any  #api  #apt-key  #arbitrary  #archivos  #arquivos  #authentication  #automatically  #axel  #baixando  #bat  #between  #bhi  #blend  #cache  #call  #camera  #catalina  #ccachicago  #cellular  #chrome  #cli  #client  #cloud  #cmd  #colaboratory  #comando  #command-line  #comparison  #computer  #concept  #configure  #consola  #contenido  #cooky  #core  #course  #crash  #cron  #crontab  #css  #cve-2014-4877  #cyber  #damned  #database  #dataset  #date  #debian  #delete  #descarga  #descargar  #diff  #difference  #different  #directly  #disc  #domain  #downloader  #dpkg  #dump  #during  #email  #encode  #engineering  #episode  #escape  #essential  #establish  #ethical  #everything  #excel  #executable  #execute  #expert  #explain  #external  #extracted  #failed  #fault  #fedora  #fetch  #filename  #filesystem  #finance  #folder  #follow  #forbid  #forum  #fun  #fzf  #garo  #generic  #genesis  #gnu  #god  #good  #gpg  #grab  #grep  #halloween  #harsh  #help  #hindi  #html  #http  #imerg  #import  #important  #instead  #interi  #intro  #iot  #isp  #itself  #java  #jdk  #job  #joutrnalctl  #jpgs  #jre  #jupyter  #kare  #kill  #koi  #land  #ldap  #learn  #learning  #lecture  #less  #letting  #level  #library  #libssl  #linx  #live  #load  #location  #log  #login  #mac  #magic  #making  #many  #map  #master  #matlab  #mediafire  #memory  #message  #method  #migrate  #mime  #minute  #mojave  #monday  #mp3  #native  #navi-x  #network  #new  #node  #notebook  #numb  #once  #one  #online  #oracle  #org  #otn  #paper  #para  #parallel  #parameter  #part-1  #passwd  #past  #pdf  #pelo  #pharo  #php  #pigeon  #pip  #pipe  #piping  #polly  #popcorn  #por  #powershell  #practically  #practice  #private  #process  #program  #proof  #provide  #proxy  #publicly  #put  #qshell  #quick  #rar  #raspberry  #real  #regex  #rel  #repository  #request  #resume  #retry  #return  #robot  #running  #same  #sangma  #save  #saving  #scaricare  #schedule  #science  #scp  #scraping  #scratch  #scratchpad  #search  #second  #security  #segmentation  #server-side  #shareable  #shell  #shellscript  #short  #shorts  #siti  #software  #solve  #song  #source  #sourceforge  #speed  #ssh  #stackexchange  #star  #start  #steal  #stop  #stored  #street  #success  #such  #sudo_tn  #surani  #symlink  #system  #systemctl  #takeout  #telugu  #template  #test  #text  #that  #thing  #through  #time  #timelapse  #tip  #today  #ton  #top  #two  #técnica  #ultimate  #under  #unicide  #urllib  #user  #useradd  #variable  #view  #vim  #walkthrough  #way  #webpage  #webserver  #wget-lening  #when  #whmcs  #windo  #with-ssl  #without  #wordpress  #working  #wrap  #yahoo  #zip  #zsh  #введение  #видео  #видео_2  #выкачивать  #делать  #журналирование  #загрузить  #загрузка  #запуск  #инструкция  #интернет  #контакт  #линукс  #минутка  #музыка  #офигенный  #пар  #помогать  #програмулек  #продавать  #сисадмин  #системный  #служба  #старт  #твой  #типичный  #тысяча  #урка  #урок_1  #файл  #фотка  #фриланс 
